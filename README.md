@@ -1,0 +1,1 @@
+Perfomed CRUD operations on Admin page with the features of reading, creating, editing and deleting the data. Used various hooks like useState, useParams, useNavigate, useEffects for various actions of CRUD operation
